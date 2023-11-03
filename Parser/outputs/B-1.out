@@ -1,0 +1,4 @@
+Error type A at Line 5: Illegal identifier '2g'
+Error type B at line 7: Expect DecList.
+Error type B at line 11: Expect statement after 'while' condition.
+Error type B at line 24: Illegal array index.

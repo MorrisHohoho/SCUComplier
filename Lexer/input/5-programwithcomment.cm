@@ -1,0 +1,11 @@
+/*this is a test*/
+
+void main(void)
+{
+	int x;int y;
+	//get input
+	x=input();
+	//another comment
+	y=intput();
+	output(gcd(x,y));
+}
